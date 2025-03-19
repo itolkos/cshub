@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "CSHub"
-  text: "A VitePress Site"
+  text: "一个全体量的cs教学文档库"
   tagline: My great project tagline
   actions:
     - theme: brand
